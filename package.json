@@ -23,8 +23,9 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "webpack --progress --profile",
-    "watch": "webpack --progress --profile --watch"
+    "build": "webpack --progress --profile", 
+    "watch": "webpack --progress --profile --watch"  
+    
   },
   "author": "",
   "license": "MIT"
